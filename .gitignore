@@ -1,7 +1,8 @@
-test.py
-test1.py
-test12.py
+test*
 project/
 rain1.py
 simple.py
 traffic light.py
+
+# homework 6.drawio
+example/
