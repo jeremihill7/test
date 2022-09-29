@@ -1,0 +1,42 @@
+                         BASIC
+
+git status  - Перевірка: яка гілка, які файли мають зміни, файлі які можно додати (Show the working tree status).
+
+
+git add  -  додати файли, до відслідковування (Add file contents to the index).
+
+git commit  -  записати зміни в репозиторій локально.(Record changes to the repository).
+git commit  -m -  записати зміни в репозиторій з повідомленням локально.(Record changes to the repository with message.)
+
+
+git push - запис файлів та змін відалено на гілку за замовчуванням. (Update remote refs along with associated objects.)
+
+
+git -set upstream ---???
+
+git -rm - видалення. (deleted).
+
+git merge - об'єднання гілок.(Join two or more development histories together).
+
+
+
+
+
+
+
+                  Branch
+
+git branch - вказує яка гілка. (shows which branch is active)
+
+git checkout ... - вибір гілкі. (Switch branches or restore working tree files).
+
+
+
+
+
+
+
+
+
+
+
